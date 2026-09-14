@@ -14,7 +14,7 @@ for (let i = 0; i < buttonsEl.length; i++) {
     }
   });
 }
-//função da calvuladora
+//função da calculadora
 inputFieldEl.value = "";
 function clearResult() {}
 
